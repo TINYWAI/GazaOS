@@ -11,8 +11,6 @@ Tianyu Wei¹, He Chen¹, Ailong Ma², Zhuo Zheng³, Anzhu Yu⁴, Wenchao Liu¹, 
 
 **Official repository of the GazaOS dataset and the MFTV model**
 
-ISPRS Journal of Photogrammetry and Remote Sensing (*Under review*).
-
 </div>
 
 ---
